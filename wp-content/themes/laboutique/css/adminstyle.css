@@ -1,0 +1,5 @@
+.vc_settings-tabs a:nth-child(2),
+.vc_settings-tabs a[href="#vc_settings-updater"],
+.settings_page_wpb_vc_settings .vc-settings-tabs{
+	display: none;
+}

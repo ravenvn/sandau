@@ -1,0 +1,110 @@
+/*
+* Styles to use in the WP Visual Editor
+*/
+
+/*  Make Visual Editor background grey, so white colored text for design sections can be visible */
+
+body {
+	background-color: #fff;
+	padding: 20px;
+	margin: 0;
+}
+
+hr.small {
+	margin: 20px 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-weight: 300;
+	letter-spacing: -0.5px;
+	font-family: @heading_font;	
+}
+
+h1,.h1 {
+	font-size: 48px;
+	line-height: 60px;
+}
+
+h2,.h2 {
+	font-size: 42px;
+	line-height: 52.5px;
+}
+
+h3,.h3 {
+	font-size: 36px;
+	line-height: 45px;
+}
+
+h4,.h4 {
+	font-size: 30px;
+	line-height: 37.5px;
+}
+
+h5,.h5{
+	font-size: 24px;
+	line-height: 30px;
+}
+
+h6,.h6{
+	font-size: 18px;
+	line-height: 22.5px;
+}
+
+
+
+ul {
+	list-style-position: inside;
+}
+
+.lead {
+  font-size: 21px;
+  font-weight: 200;
+  line-height: 30px;
+}
+.larger {
+  font-size: 125%;
+  font-weight: 300;
+  display: inline-block; 
+}
+
+.smaller {
+  font-size: 90%;
+  display: inline-block; 
+}
+
+.lighter {
+  font-weight: lighter; 
+}
+
+.light {
+  font-weight: 300; 
+}
+
+.thin {
+  font-weight: 200; 
+}
+
+.normal {
+  font-weight: normal; 
+}
+
+.bolder {
+  font-weight: bolder; 
+}
+
+.bold {
+  font-weight: bold; 
+}
+
+.uppercase {
+  text-transform: uppercase;
+  letter-spacing: 2px; 
+}
+
+.mb_0 {
+  margin-bottom: 0; 
+}
+
+.mt_0 {
+  margin-top: 0; 
+}

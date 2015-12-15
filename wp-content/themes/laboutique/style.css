@@ -1,0 +1,99 @@
+/*
+Theme Name: La Boutique (Share On Theme123.Net)
+Theme URI: http://http://theme.laboutiquetheme.com/
+Author: Tfingi
+Author URI: http://themeforest.net/user/Tfingi
+Description: La Boutique is a sleek responsive WooCommerce theme expertly crafted with Bootstrap to offer 16 stunning color palettes and plenty of gorgeous user interface elements!
+Version: 1.5
+License: Regular License
+License URI: http://themeforest.net/licenses/regular
+Tags: light, one-column, two-columns, left-sidebar, right-sidebar, fluid-layout, custom-menu, featured-images, full-width-template, post-formats, theme-options, translation-ready
+Text Domain: laboutique
+
+La Boutique’s versatility provides you with the tools to weave elegant eCommerce sites to suit your products and customers.
+*/
+
+/* =WordPress Core
+-------------------------------------------------------------- */
+.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+.aligncenter,
+div.aligncenter {
+    display: block;
+    margin: 5px auto 5px auto;
+}
+
+.alignright {
+    float:right;
+    margin: 5px 0 20px 20px;
+}
+
+.alignleft {
+    float: left;
+    margin: 5px 20px 20px 0;
+}
+
+.aligncenter {
+    display: block;
+    margin: 5px auto 5px auto;
+}
+
+a img.alignright {
+    float: right;
+    margin: 5px 0 20px 20px;
+}
+
+a img.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+a img.alignleft {
+    float: left;
+    margin: 5px 20px 20px 0;
+}
+
+a img.aligncenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.wp-caption {
+    background: #fff;
+    border: 1px solid #f0f0f0;
+    max-width: 96%; /* Image does not overflow the content area */
+    padding: 5px 3px 10px;
+    text-align: center;
+}
+
+.wp-caption.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+.wp-caption.alignleft {
+    margin: 5px 20px 20px 0;
+}
+
+.wp-caption.alignright {
+    margin: 5px 0 20px 20px;
+}
+
+.wp-caption img {
+    border: 0 none;
+    height: auto;
+    margin: 0;
+    max-width: 98.5%;
+    padding: 0;
+    width: auto;
+}
+
+.wp-caption p.wp-caption-text {
+    font-size: 11px;
+    line-height: 17px;
+    margin: 0;
+    padding: 5px 4px 5px;
+    
+}
+

@@ -1,0 +1,21 @@
+<wpml-config>
+    <admin-texts>
+        <key name="laboutique_options">
+            <key name="top_left" />
+        </key>
+    </admin-texts>
+    <custom-types>
+        <custom-type translate="1">Products</custom-type>
+        <custom-type translate="1">Variations</custom-type>
+        <custom-type translate="1">Contact Forms</custom-type>
+    </custom-types>    
+    <taxonomies>
+        <taxonomy translate="1">product_type</taxonomy>
+        <taxonomy translate="1">product_cat</taxonomy>
+        <taxonomy translate="0">product_tag</taxonomy>
+        <taxonomy translate="0">product_shipping_class</taxonomy>
+        <taxonomy translate="0">shop_order_status</taxonomy>
+    </taxonomies>        
+</wpml-config>
+
+
